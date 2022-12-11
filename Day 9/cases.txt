@@ -1,0 +1,3 @@
+same column +-2
+same row +-2
+L shape
